@@ -1,3 +1,5 @@
+> forked to get the badges (lines of code, code time) side by side instead of on top of each other 
+
 > Looking For Translation to different languages & Locale  [#23](https://github.com/anmol098/waka-readme-stats/issues/23)
 
 # Dev Metrics in Readme with added feature flags 🎌
